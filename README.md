@@ -1,12 +1,13 @@
-### Olá mundo, Me Chamo Lucas ! 
+### Hello world, My name is  Lucas ! 
 
 <!--
 **LucasRuizMartins/LucasRuizMartins**  
 
  -->
 
-- 🌱 I’m currently learning Java e Spring Framework. In my actual moment i am dream in a new job in the developer sector. 
-I don't have a experience in this area, but i have a large experience in quality sector and a loot willingness to learning more. 
+- 🌱 I’m currently learning Java and Spring Framework. My dream is a new job in the developer sector. 
+I don't have a experience in this area, but i have a large experience in quality sector and a loot willingness to learning more.
+I am started my studies in development in december of 2020, In november of 2021 i knew Java and POO development, since then i am dedicated my time for learning more of this area...
 
 
 
