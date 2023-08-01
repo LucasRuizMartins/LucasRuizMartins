@@ -14,7 +14,7 @@ I am started my studies in development in december of 2020, In november of 2021 
 <ul>
 <li>:artist: Após anos de estudo de artes e teatro, tenho encontrado uma grande paixão nos códigos e programação.</li>
 <li>:nerd_face: Estudo programação FULLSTACK entre a @Alura, @DevSuperior, @Udemy e outras instituições de ensino.</li>
-<li>:left_speech_bubble: atualmente meu inglês é intermediario, tenho objetivo de aprimorar tão logo eu consiga uma vaga de programador </li>
+<li>:left_speech_bubble: atualmente meu inglês é intermediario </li>
 </ul>
 
 
