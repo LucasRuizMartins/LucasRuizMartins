@@ -5,9 +5,9 @@
 
  -->
 
-- 🌱 I’m currently learning Java and Spring Framework. My dream is a new job in the developer sector. 
-I don't have a experience in this area, but i have a large experience in quality sector and a loot willingness to learning more.
-I am started my studies in development in december of 2020, In november of 2021 i knew Java and POO development, since then i am dedicated my time for learning more of this area...
+- 🌱 I’m currently learning Java and Spring Framework. My next step is a home office work in the developer sector. 
+I don't have a great experience in this area, but i have a large experience in quality sector and a loot willingness to learning more.
+I am started my studies in development in december of 2020, In november of 2021 i knew Java and POO development, since then i am dedicated my time for learning more, in Jun of 2023 i got my first work oportunity in Tecnology, Now i'm working using VBA, HTML, CSS, Javascript React and making relatorys using Power B.I ...
 
 
 
@@ -38,16 +38,20 @@ I am started my studies in development in december of 2020, In november of 2021 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"   width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40"/>  
  </ul>         
 
 
 <h3>Estudos em progresso: </h4>
 
 <ul>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
+
+ 
+
 
 </ul>
 
